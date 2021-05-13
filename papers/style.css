@@ -1,0 +1,73 @@
+html,body
+{
+	height: 100%;
+}
+body
+{
+	display: flex;
+	flex-flow: column;
+	margin: 0;
+}
+header h1
+{
+	text-align: center;
+}
+header>img:nth-child(1)
+{
+	width: 16vw;
+	height: 16vw;
+	margin: 1vw;
+}
+header a
+{
+	text-decoration: none;
+}
+main
+{
+	flex-grow: 1;
+	background-image: url(https://tsjer.techsenary.com/images/Logo.jpg);
+	background-color: aliceblue;
+	background-blend-mode: screen;
+	background-size: 100%;
+	margin: 0 2%;
+}
+footer
+{
+	padding: 2%;
+}
+hr
+{
+	border-style: solid;
+	width: 96%;
+	border-width: 0;
+	border-top-width: revert;
+}
+[class^="flexbox"]
+{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.flexbox-full-width-ele>*
+{
+	flex-grow: 1;
+}
+.themed
+{
+	color: indigo;
+	background-color: aliceblue;
+	border-color: indigo;
+}
+.themed-contrast
+{
+	color: aliceblue;
+	background-color: indigo;
+	border-color: aliceblue;
+}
+@media print
+{
+	.noprint
+	{
+		display: none;
+	}
+}
