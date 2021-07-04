@@ -1,4 +1,3 @@
-https://papers.techsenary.com/
 https://papers.techsenary.com/tsjer/ID010101
 https://papers.techsenary.com/tsjer/ID010102
 https://papers.techsenary.com/tsjer/ID010103
@@ -9,7 +8,18 @@ https://papers.techsenary.com/tsjer/ID010107
 https://papers.techsenary.com/tsjer/ID010108
 https://papers.techsenary.com/tsjer/ID010109
 https://papers.techsenary.com/tsjer/ID010110
+https://papers.techsenary.com/tsjer/ID020101
+https://papers.techsenary.com/tsjer/ID020102
+https://papers.techsenary.com/tsjer/ID020103
+https://papers.techsenary.com/tsjer/ID020104
+https://papers.techsenary.com/tsjer/ID020105
+https://papers.techsenary.com/tsjer/ID020106
+https://papers.techsenary.com/tsjer/ID020107
+https://papers.techsenary.com/tsjer/ID020108
+https://papers.techsenary.com/tsjer/ID020109
+https://papers.techsenary.com/tsjer/ID020110
 https://papers.techsenary.com/tsjer/V1I1
+https://papers.techsenary.com/tsjer/V2I1
 https://papers.techsenary.com/tsjmt/ID010101
 https://papers.techsenary.com/tsjmt/ID010102
 https://papers.techsenary.com/tsjmt/ID010103
